@@ -15,6 +15,19 @@
 
 - ⚡ intersts **I like to explore new things, like to talk with new people.**
 
+### some official project where I contributed as An Android Development
+- 📫 project - [https://play.google.com/store/apps/details?id=in.novopay.merchant&showAllReviews=true] (Novopay Retailer App-Fintech)
+- 📫 project -[https://play.google.com/store/apps/details?id=in.novopay.leadrapp] (Novopay Leadr App -Fintech)
+- 📫 project - [https://play.google.com/store/apps/details?id=com.pm.attandancemanager] (personal App- Offline Attendence Manager)
+- 📫 project - [https://play.google.com/store/apps/details?id=com.mobicom.oneclubnetlive] (oneClubNet)
+- 📫 project - [https://play.google.com/store/apps/details?id=com.fpt.engineapp] (FPT Engine app for Car engine details)
+
+### Current Company Apps
+- 📫 project - Amazon Alexa App Integration on Android Platform (will launch in March 2023)- BMW Android Automotive
+- 📫 project -  Alexa Preview mode 
+- 📫 project -  Car Skill App 
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
