@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@p-mishra2905](https://medium.com/@p-mishra2905)
 
-- 💬 Ask me about **Android,Kotlin,Java**
+- 💬 Ask me about **Android, Kotlin, Java**
 
 - 📫 How to reach me **p.mishra2905@gmail.com**
 
