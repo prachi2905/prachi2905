@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for **BMW Group**
 
-- 🌱 I’m currently learning **JetPack Compose,coroutines,Flows**
+- 🌱 I’m learning **JetPack Compose,coroutines,Flows**
 
 - 📝 I regularly write articles on [https://medium.com/@p-mishra2905](https://medium.com/@p-mishra2905)
 
@@ -51,7 +51,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prachim16844647" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prachim16844647" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prachi-mishra-630916ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prachi-mishra-630916ab/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prachi-mishra-630916ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prachi-mishra-630916ab/" height="30" width="40" /></a>
 <a href="https://instagram.com/d_indian_grl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_indian_grl" height="30" width="40" /></a>
 <a href="https://medium.com/@p-mishra2905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@p-mishra2905" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/p.mishra2905@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="p.mishra2905@gmail.com" height="30" width="40" /></a>
