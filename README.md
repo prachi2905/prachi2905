@@ -1,5 +1,5 @@
-<h1 align="center">Hi There👋, I'm am prachi</h1>
-<h3 align="center">A passionate Android Developer from India, Currently staying in Porto,Portugal.</h3>
+<h1 align="center">Hi There🙋‍♀️, I'm am prachi👩🏽‍🦱</h1>
+<h3 align="center">A passionate Android Developer from India, Currently staying in Porto,Portugal🧘🏽‍♀️ </h3>
 
 - 🔭 I’m currently working for **BMW Group**
 
@@ -9,23 +9,39 @@
 
 - 💬 Ask me about **Android , Kotlin, Java**
 
-- 📫 How to reach me **p.mishra2905@gmail.com**
+- 📫 How to reach me **p.mishra2905@gmail.com** [https://www.linkedin.com/in/prachi-mishra-630916ab/] (linkedIn)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/prachi-mishra-630916ab/](https://www.linkedin.com/in/prachi-mishra-630916ab/)
 
 - ⚡ intersts **I like to explore new things, like to talk with new people.**
 
-### some official project where I contributed as An Android Development
+### some official project where I contributed as An Android Developer in my 6 years of journey👩🏾‍🏭 
 - 📫 project - [https://play.google.com/store/apps/details?id=in.novopay.merchant&showAllReviews=true] (Novopay Retailer App-Fintech)
 - 📫 project -[https://play.google.com/store/apps/details?id=in.novopay.leadrapp] (Novopay Leadr App -Fintech)
 - 📫 project - [https://play.google.com/store/apps/details?id=com.pm.attandancemanager] (personal App- Offline Attendence Manager)
 - 📫 project - [https://play.google.com/store/apps/details?id=com.mobicom.oneclubnetlive] (oneClubNet)
 - 📫 project - [https://play.google.com/store/apps/details?id=com.fpt.engineapp] (FPT Engine app for Car engine details)
 
-### Current Company Apps
+### Current Company Apps👩🏾‍💻
 - 📫 project - Amazon Alexa App Integration on Android Platform (will launch in March 2023)- BMW Android Automotive
 - 📫 project -  Alexa Preview mode 
 - 📫 project -  Car Skill App 
+
+### knowledge/Experience🦸🏾‍♀️
+- 👩🏻‍🚒 Amazon SDK Migraion/migration issue fixes
+- 👩🏻‍🚒 Payment gatway Integration
+- 👩🏻‍🚒 Firebase and Counlty Analytics experience
+- 👩🏻‍🚒 Experience of Amazon Auto SDK, Amazon Auto Client Service, Alexa etc Inegration.
+- 👩🏻‍🚒 Knowldge of sharing the App on Play Store
+
+### Love To Do 🤹🏼‍♀️
+- 👩🏽‍🏫 Agile Methodology Fan.
+- 🧍🏽‍♀️ Experience of Scrum Knight.
+- 🙋🏽 Mentor new people.
+- 👩🏽‍🦱 Help in onboarding.
+- 👭🏾🧑🏾‍🤝‍🧑🏾Love to share my technical knowledge with team members.
+- 👩🏽‍⚖️ Love to participate of hiring process in Android(experienced on this).
+- 🚴🏾‍♀️ I love to explore new places(business travel can be a bonous for me).
 
 
 ### Blogs posts
