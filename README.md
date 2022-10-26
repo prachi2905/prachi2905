@@ -1,5 +1,5 @@
-<h1 align="center">Hi There👋, I'm prachi</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h1 align="center">Hi There👋, I'm am prachi</h1>
+<h3 align="center">A passionate Android Developer from India, Currently staying in Porto,Portugal.</h3>
 
 - 🔭 I’m currently working for **BMW Group**
 
@@ -7,13 +7,13 @@
 
 - 📝 I regularly write articles on [https://medium.com/@p-mishra2905](https://medium.com/@p-mishra2905)
 
-- 💬 Ask me about **Android, Kotlin, Java**
+- 💬 Ask me about **Android,Kotlin,Java**
 
 - 📫 How to reach me **p.mishra2905@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/prachi-mishra-630916ab/](https://www.linkedin.com/in/prachi-mishra-630916ab/)
 
-- ⚡ Fun fact **I love talking, I dont like Wednesday**
+- ⚡ intersts **I like to explore new things, like to talk with new people.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
