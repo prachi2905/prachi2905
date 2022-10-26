@@ -43,6 +43,10 @@
 - 👩🏽‍⚖️ Love to participate of hiring process in Android(experienced on this).
 - 🚴🏾‍♀️ I love to explore new places(business travel can be a bonous for me).
 
+### Language👩🏽‍🌾 
+- ✍🏼 English (fluent)
+- 🙏🏼 Hindi (native)
+- 🙆🏼 Portugues (learning)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
